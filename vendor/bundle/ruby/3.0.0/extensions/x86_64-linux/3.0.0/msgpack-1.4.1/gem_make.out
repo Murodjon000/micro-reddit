@@ -1,5 +1,5 @@
 current directory: /home/murodjon/rails/reddit/vendor/bundle/ruby/3.0.0/gems/msgpack-1.4.1/ext/msgpack
-/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20210127-11584-v4dlqg.rb extconf.rb
+/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20210129-1660-b59lsn.rb extconf.rb
 checking for ruby/st.h... yes
 checking for st.h... no
 checking for rb_str_replace() in ruby.h... yes
@@ -85,4 +85,4 @@ linking shared-object msgpack/msgpack.so
 
 current directory: /home/murodjon/rails/reddit/vendor/bundle/ruby/3.0.0/gems/msgpack-1.4.1/ext/msgpack
 make "DESTDIR=" install
-/usr/bin/install -m 0755 msgpack.so ./.gem.20210127-11584-yrvz6f/msgpack
+/usr/bin/install -m 0755 msgpack.so ./.gem.20210129-1660-i5uaoz/msgpack

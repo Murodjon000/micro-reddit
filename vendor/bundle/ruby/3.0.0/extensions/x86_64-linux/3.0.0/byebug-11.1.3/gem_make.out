@@ -1,5 +1,5 @@
 current directory: /home/murodjon/rails/reddit/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
-/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20210127-11584-3oa1rr.rb extconf.rb
+/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20210129-1660-n26azm.rb extconf.rb
 creating Makefile
 
 current directory: /home/murodjon/rails/reddit/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
@@ -16,4 +16,4 @@ linking shared-object byebug/byebug.so
 
 current directory: /home/murodjon/rails/reddit/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
 make "DESTDIR=" install
-/usr/bin/install -m 0755 byebug.so ./.gem.20210127-11584-v6ie59/byebug
+/usr/bin/install -m 0755 byebug.so ./.gem.20210129-1660-mb9r1l/byebug

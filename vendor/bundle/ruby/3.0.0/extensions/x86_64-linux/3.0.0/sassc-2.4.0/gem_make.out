@@ -1,5 +1,5 @@
 current directory: /home/murodjon/rails/reddit/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
-/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20210127-11584-x7s5lo.rb extconf.rb
+/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20210129-1660-2i1vr6.rb extconf.rb
 creating Makefile
 
 current directory: /home/murodjon/rails/reddit/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
@@ -77,4 +77,4 @@ linking shared-object sassc/libsass.so
 
 current directory: /home/murodjon/rails/reddit/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
-/usr/bin/install -m 0755 libsass.so ./.gem.20210127-11584-qh7rfc/sassc
+/usr/bin/install -m 0755 libsass.so ./.gem.20210129-1660-k3bsnj/sassc

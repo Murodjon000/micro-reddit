@@ -1,5 +1,5 @@
 current directory: /home/murodjon/rails/reddit/vendor/bundle/ruby/3.0.0/gems/pg-1.2.3/ext
-/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20210127-11584-cppeb1.rb extconf.rb
+/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20210129-1660-6rnngl.rb extconf.rb
 checking for pg_config... yes
 Using config values from /usr/bin/pg_config
 checking for libpq-fe.h... yes
@@ -66,4 +66,4 @@ linking shared-object pg_ext.so
 
 current directory: /home/murodjon/rails/reddit/vendor/bundle/ruby/3.0.0/gems/pg-1.2.3/ext
 make "DESTDIR=" install
-/usr/bin/install -m 0755 pg_ext.so ./.gem.20210127-11584-elz92h
+/usr/bin/install -m 0755 pg_ext.so ./.gem.20210129-1660-hdssws
