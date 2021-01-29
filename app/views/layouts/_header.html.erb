@@ -13,7 +13,7 @@
                 <span class="icon-bar"></span>
               </button>
           </div>
-          <nav class=" navbar-right collapse navbar-collapse nav__box" id="bs-example-navbar-collapse-1">
+          <ul class=" nav navbar-nav navbar-right collapse navbar-collapse " id="bs-example-navbar-collapse-1">
          
              
              <% if logged_in? %>
@@ -32,10 +32,9 @@
                 </ul>
              </li>
              <% else %>
-                    <%= link_to "Log in",login_path,class:"btn btn-primary" %>
-                    <%= link_to "Sign up",signup_path,class:"btn btn-primary fir_b" %>
+                    <%= link_to "Log in",login_path,class:"btn btn-primary nav__box" %>
              <% end %>
-          </nav>
+          </ul>
         </nav>
       </div>
 </header>
